@@ -8,7 +8,9 @@
   "module": "dist/reveal.esm.js",
   "license": "MIT",
   "scripts": {
-    "build": "vuepress build"
+    "test": "gulp test",
+    "start": "gulp serve",
+    "build": "gulp"
   },
   "author": "Hakim El Hattab <hakim.elhattab@gmail.com> (https://hakim.se)",
   "repository": {
