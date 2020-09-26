@@ -8,15 +8,9 @@
   "module": "dist/reveal.esm.js",
   "license": "MIT",
   "scripts": {
-    "test": "gulp test",
-    "start": "gulp serve",
-    "build": "gulp"
+    "build": "vuepress build"
   },
-  "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "https://hakim.se"
-  },
+  "author": "Hakim El Hattab <hakim.elhattab@gmail.com> (https://hakim.se)",
   "repository": {
     "type": "git",
     "url": "git://github.com/hakimel/reveal.js.git"
@@ -56,6 +50,7 @@
     "qunit": "^2.10.0",
     "rollup": "^2.26.4",
     "rollup-plugin-terser": "^7.0.0",
+    "vuepress": "^1.6.0",
     "yargs": "^15.1.0"
   },
   "browserslist": "> 0.5%, IE 11, not dead",
@@ -95,5 +90,13 @@
       "no-eq-null": 2,
       "no-unused-expressions": 0
     }
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/hakimel/reveal.js/issues"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {}
 }
