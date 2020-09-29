@@ -123,12 +123,12 @@ AWSのサイトですが、考え方はクラウド共通なのでどのベン�
 
 >>>
 
-CloudSkewで絵描きましょう。これすごい
+CloudSkewで絵描きましょう。これすごい  
 [参考サイト：CloudSkew](https://www.cloudskew.com/)
 
 >>>
 
-試しに書いてみた。いい感じ
+試しに書いてみた。いい感じ  
 ![billing](./img/billing.PNG)
 
 ---
