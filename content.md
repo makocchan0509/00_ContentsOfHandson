@@ -121,6 +121,16 @@ IaaSはインフラの構成からセルフで作成する必要があります�
 AWSのサイトですが、考え方はクラウド共通なのでどのベンダでも考慮すべき点は同じです。  
 [参考サイト:AWS Well-Architected framework](https://aws.amazon.com/jp/blogs/news/aws-well-architected-whitepaper/)
 
+>>>
+
+CloudSkewで絵描きましょう。これすごい
+[参考サイト：CloudSkew](https://www.cloudskew.com/)
+
+>>>
+
+試しに書いてみた。いい感じ
+![billing](./img/billing.PNG)
+
 ---
 
 #### 2. インフラ構築
